@@ -1,0 +1,28 @@
+[
+    {
+      "title": "PreVue",
+      "stack" : ["React JS", "Tailwind CSS", "Appwrite"],
+      "discription" : [
+        "Authentication: Ensure secure login and account creation for personalized experiences.",
+        "Authorization: Control access to features and content based on user roles or permissions.",
+        "Add to Watchlist: Allow users to bookmark movies or series for easy access.",
+        "Movie/Series Search: Implement a robust search function for easy navigation and discovery.",
+        "Recommendation: Provide personalized content recommendations based on user preferences and history."
+      ],
+      "gitLink": "https://github.com/LohitNimbagal/PreVue",
+      "liveLink": "https://prevuee.vercel.app/"
+    },
+    {
+      "title": "GooShopping",
+      "stack" : ["React JS", "Tailwind CSS"],
+      "discription" : [
+        "JWT Tokens: Implement JWT authentication for secure user sessions and access control.",
+        "Location based currency conversion: Automatically convert prices based on the user's location for seamless international shopping.",
+        "Add to Cart: Allow users to add items to their shopping cart for easy checkout and purchase.",
+        "Searching and Filtering: Provide robust search and filtering options to help users quickly find products based on their preferences, such as category, price range, brand, etc."
+      ],
+      "gitLink": "https://github.com/LohitNimbagal/gooShopping",
+      "liveLink": "https://gooshopping.vercel.app/"
+    }
+  ]
+  
