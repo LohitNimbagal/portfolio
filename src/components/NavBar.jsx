@@ -5,8 +5,8 @@ const navItems = ['About', 'Projects', 'Blogs']
 
 export default function NavBar() {
     return (
-        <div className='w-full h-16 flex items-center justify-between py-8'>
-            <h1 className='text-2xl font-semibold antialiased tracking-wider'>Lohit Nimbagal</h1>
+        <div className='w-full h-16 flex items-center justify-center py-8'>
+            {/* <h1 className='text-2xl font-semibold antialiased tracking-wider'>Lohit Nimbagal</h1> */}
 
             <ul className='flex items-center gap-10 tracking-wider'>
                 {navItems.map((item) => (
